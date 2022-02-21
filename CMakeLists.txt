@@ -33,7 +33,7 @@ include(${_project_options_SOURCE_DIR}/Index.cmake)
 
 # Set the project name and language
 project(
-  myproject
+  template-creation-test
   VERSION 0.0.1
   DESCRIPTION "Starter Project With Best Practices for C++"
   HOMEPAGE_URL "https://github.com/cpp-best-practices/cpp_boilerplate_project"
